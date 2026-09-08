@@ -6,8 +6,6 @@ A Flutter app that signs users in with Supabase Authentication. After a successf
 
 ## Screenshots
 
-Captured on the iPhone 16 Pro Max simulator.
-
 | Login | Sign up | Home |
 | :---: | :---: | :---: |
 | <img src="docs/screenshots/login.png" alt="Login screen" width="250"> | <img src="docs/screenshots/signup.png" alt="Sign-up screen" width="250"> | <img src="docs/screenshots/home.png" alt="Home screen with counter" width="250"> |
