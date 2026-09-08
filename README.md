@@ -4,6 +4,14 @@
 
 A Flutter app that signs users in with Supabase Authentication. After a successful email and password login, the app opens the Home screen.
 
+## Screenshots
+
+Captured on the iPhone 16 Pro Max simulator.
+
+| Login | Sign up | Home |
+| :---: | :---: | :---: |
+| <img src="docs/screenshots/login.png" alt="Login screen" width="250"> | <img src="docs/screenshots/signup.png" alt="Sign-up screen" width="250"> | <img src="docs/screenshots/home.png" alt="Home screen with counter" width="250"> |
+
 ## Features
 
 - Consistent charcoal-and-violet theme across Login, Sign up, and Home.
@@ -57,7 +65,7 @@ Use an account from the same Supabase project configured in `main.dart`.
 
 1. On Login, select **Create an account**.
 2. Enter an email you can access and a password meeting your Supabase project's password requirements.
-3. Press **Sign up**.
+3. Press **Create account**.
 4. If email confirmation is enabled, open the confirmation email and confirm the account.
 5. Return to the app and use the **log in** link on the Sign-up screen.
 6. Log in using the same email and password.
