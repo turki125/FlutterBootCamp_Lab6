@@ -5,6 +5,8 @@ import 'home_screen.dart';
 import 'login_screen.dart';
 import 'signup_screen.dart';
 
+//
+
 class AuthScreen extends StatefulWidget {
   const AuthScreen({super.key, this.signUp = false});
   final bool signUp;
