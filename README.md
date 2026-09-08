@@ -94,5 +94,3 @@ These tests do not contact the live Supabase project. Successful and failed real
 ## Scope
 
 This lab demonstrates login and navigation. It does not include logout, password reset, or automatic routing to Home when reopening the app with a saved session.
-
-Based on the [class starter repository](https://github.com/FlutterBootCampTuwaiqClub26/day12-database-authentication).
